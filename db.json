@@ -7,5 +7,6 @@
   ],
   "recados": [
     {"id":"20200213", "mensagem":"Hoje é dia 13/02/2020 e esta é uma mensagem de teste"}
+    {"id":"20200213", "mensagem":"Hoje é dia 13/02/2020 e esta é mais uma mensagem de teste"}
   ]
 }
