@@ -3,6 +3,6 @@
   "alunos": [  
     {"id":"41984050000", "nome":"Aline", "datanasc":"16/09/2013", "faixa": "verde"},
     {"id":"41984050001", "nome":"Julia", "datanasc":"16/08/2011", "faixa": "dourada"},
-    {"id":"41984050002", "nome":"Pedrinho", "datanasc":"16/07/2014", "faixa": "branca"}
+    {"id":"41984050001", "nome":"Pedrinho", "datanasc":"16/07/2014", "faixa": "branca"}
   ]
 }
