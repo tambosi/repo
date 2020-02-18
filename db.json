@@ -1,10 +1,10 @@
 
 {
   "alunos": [  
-    {"id":"41984050000", "nome":"Aline da Silva", "datanasc":"16/09/2013", "faixa": "0"},
-    {"id":"41984050000", "nome":"Julia de Matos", "datanasc":"16/08/2011", "faixa": "4"},
-    {"id":"41984050000", "nome":"Pedrinho dos Santos", "datanasc":"16/07/2014", "faixa": "3"}
-    {"id":"41984050001", "nome":"Juarez Francisco dos Santos", "datanasc":"11/02/1988", "faixa": "2"}
+    {"id":"41984050000", "nome":"Aline da Silva", "datanasc":"16/09/2013", "faixa": "0", "modalidade":"2"},
+    {"id":"41984050000", "nome":"Julia de Matos", "datanasc":"16/08/2011", "faixa": "4", "modalidade":"1"},
+    {"id":"41984050000", "nome":"Pedrinho dos Santos", "datanasc":"16/07/2014", "faixa": "3", "modalidade":"0"}
+    {"id":"41984050001", "nome":"Juarez Francisco dos Santos", "datanasc":"11/02/1988", "faixa": "2", "modalidade":"1"}
   ],
   "recados": [
     {"id":"41984050000", "data":"20200213", "mensagem":"Hoje é dia 13/02/2020 e esta é uma mensagem de teste"},
