@@ -1,9 +1,10 @@
 
 {
   "alunos": [  
-    {"id":"41984050000", "nome":"Aline", "datanasc":"16/09/2013", "faixa": "verde"},
-    {"id":"41984050001", "nome":"Julia", "datanasc":"16/08/2011", "faixa": "dourada"},
-    {"id":"41984050001", "nome":"Pedrinho", "datanasc":"16/07/2014", "faixa": "branca"}
+    {"id":"41984050000", "nome":"Aline da Silva", "datanasc":"16/09/2013", "faixa": "0"},
+    {"id":"41984050000", "nome":"Julia de Matos", "datanasc":"16/08/2011", "faixa": "4"},
+    {"id":"41984050000", "nome":"Pedrinho dos Santos", "datanasc":"16/07/2014", "faixa": "3"}
+    {"id":"41984050001", "nome":"Juarez Francisco dos Santos", "datanasc":"11/02/1988", "faixa": "2"}
   ],
   "recados": [
     {"id":"41984050000", "data":"20200213", "mensagem":"Hoje é dia 13/02/2020 e esta é uma mensagem de teste"},
