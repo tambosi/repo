@@ -9,6 +9,7 @@
   "recados": [
     {"id":"41984050000", "data":"20200213", "mensagem":"Hoje é dia 13/02/2020 e esta é uma mensagem de teste"},
     {"id":"41984050000", "data":"20200213", "mensagem":"Hoje é dia 13/02/2020 e esta é mais uma mensagem de teste"},
-    {"id":"41984050000", "data":"20200219", "mensagem":"Oi Gabi!!!"}
+    {"id":"41984050000", "data":"20200219", "mensagem":"Oi Gabi!!!"},
+    {"id":"41984050000", "data":"20200305", "mensagem":"Nova mensagem grande para testar se é mostrada adequadamente."}
   ]
 }
